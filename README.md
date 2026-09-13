@@ -84,6 +84,5 @@ prediction = model.predict(image_array)
 - Model dievaluasi tinggi (98%) pada test set utama, tapi performanya turun (70,70%) pada folder test bawaan dataset yang jauh lebih kecil dan berbeda distribusinya — indikasi model perlu diuji lebih lanjut pada data dunia nyata yang lebih beragam sebelum deployment penuh.
 - Pemilihan model terbaik antara MobileNetV2 dan EfficientNetB0 sempat seri di val accuracy; ke depannya bisa dipertimbangkan tie-breaker eksplisit atau membandingkan hasil fine-tuning keduanya.
 
-## 👤 Author
 
-Final Project — Mata Kuliah Machine Learning  
+Final Project Machine Learning
